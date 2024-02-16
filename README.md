@@ -26,7 +26,7 @@ Let's connect if you share our interests. Most of our contact details can be fou
 
 <!-- Social buttons -->
 <div align="left">
-  <a href="https://github.com/moonlit-ai"><img src="https://img.shields.io/github/followers/moonlit-ai?label=GitHub&style=social" target="_blank" alt="Follow us on GitHub"></a>
+	<a href="https://github.com/moonlit-ai"><img src="https://img.shields.io/github/followers/moonlit-ai?label=GitHub&style=social" target="_blank" alt="Follow us on GitHub"></a>
 	&nbsp;&nbsp;
 	<a href="https://linkedin.com/company/moonlit-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?label?label=LinkedIn&style=social&logo=linkedin" target="_blank" alt="Follow us on LinkedIn"></a>
 	&nbsp;&nbsp;
