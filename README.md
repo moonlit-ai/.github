@@ -7,12 +7,12 @@ Our platform provides access to state-of-the-art legal research technology and a
 #### ✨ Mission
 Moonlit's mission is to impact society and legal industry through providing a holistic and cost-effective research solution which increases the quality and efficiency of legal research, relieves stress on legal systems, and improves access to justice in Europe.
 
-#### 🔧 Development
+#### 🛠️ Development
 We're continuously improving our platform's capabilities and expanding the coverage of our database. For this, Moonlit leverages the capabilities of modern technologies in the fields of natural language processing (NLP), machine learning (ML), information architecture and information retrieval.
 
 #### 👀 Content
 In terms of content, Moonlit aims to cover:
-- International courts (including ICJ, ICC, ITLOS);
+- International courts (including ICJ, ITLOS, ICC);
 - European Union (including CJEU);
 - Council of Europe (including ECtHR);
 - European Free Trade Association (including EFTA Court);
