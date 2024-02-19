@@ -1,4 +1,4 @@
-## 👋 Hi, thanks for visiting Moonlit.ai!
+## 👋 Hi, thanks for visiting Moonlit!
 Pan-European legal research powered by artificial intelligence.
 
 #### 🌱 About
