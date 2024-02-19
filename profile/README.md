@@ -11,7 +11,7 @@ Moonlit's mission is to impact society and legal industry through providing a ho
 We're continuously improving our platform's capabilities and expanding the coverage of our database. For this, Moonlit leverages the capabilities of modern technologies in the fields of natural language processing (NLP), machine learning (ML), information architecture and information retrieval.
 
 #### 👀 Content
-In terms of content, Moonlit aims to cover:
+In terms of content, Moonlit aims to cover case law, administrative decisions, legislation and more from:
 - International courts (including ICJ, ITLOS, ICC);
 - European Union (including CJEU);
 - Council of Europe (including ECtHR);
