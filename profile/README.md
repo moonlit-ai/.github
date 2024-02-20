@@ -26,11 +26,9 @@ Let's connect if you share our interests. Most of our contact details can be fou
 
 <!-- Social buttons -->
 <div align="left">
-	<a href="https://github.com/romjansen"><img src="https://img.shields.io/badge/GitHub-0077B5?label?label=GitHub&style=social&logo=github" alt="Follow me on GitHub"></a>
+	<a href="https://github.com/moonlit-ai"><img src="https://img.shields.io/badge/GitHub-0077B5?label?label=GitHub&style=social&logo=github" target="_blank" alt="Follow us on GitHub"></a>
 	&nbsp;&nbsp;
-    <a href="https://gitlab.com/romjansen"><img src="https://img.shields.io/badge/GitLab-0077B5?label?label=GitLab&style=social&logo=gitlab" alt="Follow me on GitLab"></a>
-	&nbsp;&nbsp;
-	<a href="https://linkedin.com/in/romjansen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?label?label=LinkedIn&style=social&logo=linkedin" alt="Connect with me on LinkedIn"></a>
+	<a href="https://gitlab.com/moonlit-ai"><img src="https://img.shields.io/badge/GitLab-0077B5?label?label=GitLab&style=social&logo=gitlab" target="_blank" alt="Follow us on GitLab"></a>
 	&nbsp;&nbsp;
 	<a href="https://linkedin.com/company/moonlit-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?label?label=LinkedIn&style=social&logo=linkedin" target="_blank" alt="Follow us on LinkedIn"></a>
 	&nbsp;&nbsp;
